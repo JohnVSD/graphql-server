@@ -1,0 +1,15 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "devDependencies": {
+    "apollo-server": "^2.3.3",
+    "core-js": "3.0.0-beta.11",
+    "graphpack": "^1.0.6"
+  }
+}
